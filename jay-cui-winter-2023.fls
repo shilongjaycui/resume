@@ -1,8 +1,8 @@
-PWD /Users/devops/Desktop/resume
+PWD /Users/shilongcui/shilongjaycui/resume
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/devops/Desktop/resume/jay-cui-winter-2023.tex
+INPUT /Users/shilongcui/shilongjaycui/resume/jay-cui-winter-2023.tex
 OUTPUT jay-cui-winter-2023.log
 INPUT ./resume.cls
 INPUT ./resume.cls
