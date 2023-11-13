@@ -1,2 +1,4 @@
 # resume
-Install the "Markdown PDF" VS Code extension (extension ID: yzane.markdown-pdf).
+This repo is created by following instructions in [`markdown-resume`](https://github.com/tengjuilin/markdown-resume).
+
+*TODO:* finish writing this README
