@@ -4,9 +4,11 @@
 
 <span class="info">
 
-[![Mail](https://simpleicons.org/icons/minutemailer.svg) shilongjaycui@gmail.com](mailto:shilongjaycui@gmail.com)
-[![LinkedIn](https://simpleicons.org/icons/linkedin.svg) linkedin.com/in/shilongjaycui](https://www.linkedin.com/in/shilongjaycui/)
-[![GitHub](https://simpleicons.org/icons/github.svg) github.com/shilongjaycui](https://github.com/shilongjaycui)
+[shilongjaycui@gmail.com](mailto:shilongjaycui@gmail.com)
+|
+[linkedin.com/in/shilongjaycui](https://www.linkedin.com/in/shilongjaycui/)
+|
+[github.com/shilongjaycui](https://github.com/shilongjaycui)
 
 </span>
 
