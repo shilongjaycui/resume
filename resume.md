@@ -1,110 +1,69 @@
 <link rel="stylesheet" type="text/css" href="resume.css">
 
-<span class="name">Teng-Jui Lin</span>
+<span class="name">Jay Cui</span>
 
 <span class="info">
 
-[![Mail](https://simpleicons.org/icons/minutemailer.svg) tlin10@uw.edu](mailto:tlin10@uw.edu)
-[![GitHub](https://simpleicons.org/icons/github.svg) github.com/tengjuilin](https://github.com/tengjuilin)
+[![Mail](https://simpleicons.org/icons/minutemailer.svg) shilongjaycui@gmail.com](mailto:shilongjaycui@gmail.com)
+[![LinkedIn](https://simpleicons.org/icons/linkedin.svg) linkedin.com/in/shilongjaycui](https://www.linkedin.com/in/shilongjaycui/)
+[![GitHub](https://simpleicons.org/icons/github.svg) github.com/shilongjaycui](https://github.com/shilongjaycui)
 
 </span>
 
 ## Education
 
-### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 – Present </time>
+### Brigham Young University | <location> Provo, UT, USA </location> <time> Sep 2019 – Jun 2023 </time>
 
-- B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
-- Minor in Applied Mathematics and Chemistry
-- GPA: 3.97 | Expected Graduation: June 2023
-- Mary Gates Research Scholarship | 2 Dan Evans Term Scholarships | C-HACK Team 1st, 3rd Places
+- B.S. in Mathematics, emphasis in Applied & Computational Mathematics
+- Minor in Computer Science
 
-### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 – Aug 2018 </time>
+### Waterford School | <location> Sandy, UT, USA </location> <time> Sep 2016 – Jun 2019 </time>
 
-- Pre-Baccalaureate Program: Neuroscience, Cell and Molecular Biology
+- GPA: 4.00 | SAT: 1530/1600, 99th percentile
+- Skipped senior year to go to college
 
-### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 – Jun 2019 </time>
+## Professional Experience
 
-- Discovery Fair 1st Place | Science Fair 1st, 2nd Places | 2 Peer Tutor Awards | Merit Student of Zhengzhou
+### Data Engineer I <time> Sep 2023 – present </time>
 
-## Relevant Experience
+<location> BENlabs </location>
 
-### Undergraduate Research Assistant <time> Nov 2020 – Present </time>
+- Enabled the data scientists to publish models by fixing their failed deployments in CI/CD (GitHub Actions, AWS CDK)
+- Eliminated tech debts related to repository hosting by migrating internal tools from Bitbucket to GitHub, reconfiguring the tools with projen, and publishing the tools to AWS CodeArtifact
+- Increased data product quality by coaching the data scientists on software engineering best practices and enforcing those practices during pair programming & code review
 
-<location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
+### Data Engineer Intern <time> Sep 2022 – Apr 2023 </time>
 
-- Quantified microglia morphology of 3 datasets using image processing and machine learning methods
-- Developed Python API for data analysis for modular integration to fluorescent image analysis workflow
-- Scanned 102 murine breast cancer tissue slices using confocal microscope (24.5 hr) for collaborators
-- Surveyed literature regarding cell segmentation, morphological analysis, and image-based profiling
+<location> BEN Group, Inc. </location>
 
-### Summer Undergraduate Research Scholar <time> Jun 2022 - Aug 2022 </time>
+- Enabled the data science team and the analytics team to monitor AI batch jobs by building and deploying a monitoring system (Python, AWS SDK, AWS Step Functions)
+- Enabled the data engineering team to control OpenSearch data access by building a CLI tool(AWS CDK, AWS OpenSearch Service, AWS Secrets Manager, pytest)
+- Provided company-wide access to Twitch data by building three data pipelines (Twitch API, Gathr, AWS S3)
 
-<location> STROBE NSF Science and Technology Center on Real-Time Functional Imaging <br/> Department of Physics, Florida International University, PI: Jin He </location>
+### Software Engineer Intern <time> May 2021 – Jul 2021 </time>
 
-- Fabricated and functionalized gold nanorods for promoting maturation of engineered cardiac tissues
-- Characterized gold nanorods using UV-visible spectroscopy and Raman spectroscopy
-- Measured contractile force of cardiac tissues by analyzing brightfield microscopy video data with Python
-- Processed confocal microscopy images of T-tubular systems of cardiomyocytes with Python
+<location> Pluralsight, Inc. </location>
 
-### Calculus Teaching Assistant <time> Sep 2018 – May 2019 </time>
+- Accelerated user data load time by 67% (6s to 2s) by redesigning the table concatenation procedure (SQL)
+- Provided new content access to 17,000+ enterprise customers in 180+ countries by integrating 50GB of data intoPluralsight’s insights & analytics platform (SQL, C#)
 
-<location> Kinglee High School </location>
+### Software Engineer Intern <time> May 2022 – Aug 2022 </time>
 
-- Gave AP Calculus AB lectures 4 hours weekly to 5 students in alignment with CollegeBoard curriculum
-- Clarified complex concepts and common confusions about calculus with classroom activities
-- Worked with supervisor to design and grade concept checks, homework, and quizzes with tight deadlines
+<location> Neighbor Storage, Inc. </location>
 
-## Other Experience
+- Enabled users to create and update rental listings and  payment information by building UI components (HTML, Tailwind CSS, React with TypeScript) and API endpoints (Ruby on Rails, Go)
+- Launched UI-Kit Version 2 by building 10 reusable, fully-tested React components (React Testing Library)
 
-### Webmaster <time> Apr 2022 – Present </time>
+## Volunteer Experience
 
-<location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
+### Preschool Teacher <time> Nov 2022 – May 2023 </time>
 
-- Managed and designed official website; monitored and updated social media accounts and email list
-- Coordinated with internal and external media efforts to ensure up-to-date online presence
-- Facilitated coordination of ChemE BBQ event and graduation ceremony
+<location> Early Learning Essentials </location>
 
-### Secretary <time> May 2021 – Present </time>
+- Taught 15 three-year-olds how to brush their teeth
 
-<location> Women in Chemical Engineering, University of Washington </location>
+### Vice President <time> Sep 2021 - Nov 2022 </time>
 
-- Kept transparent meeting records, managed member email list, and maintained student group registration
-- Composed biweekly newsletters to 400+ members to update events, resources, and diversity highlights
-- Facilitated coordination of Veteran's Day event, Wiki-edit-a-thon, and International Women's Day event
+<location> Society for Industrial and Applied Mathematics (SIAM), BYU Chapter </location>
 
-### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
-
-<location> Chinese Students and Scholars Association, University of Washington </location>
-
-- Designed, crafted, and edited posters and videos for major events, such as Student Orientation Programs
-- Assisted in maintenance of official blog and website to provide resources based on students' need
-
-### Maple Hall Council SEED Representative <time> Oct 2019 – Mar 2020 </time>
-
-<location> Housing and Food Services, University of Washington </location>
-
-- Led committee meetings and planned campus-wide competition that raised waste sorting awareness
-- Attended weekly hall council and SEED meetings to liaise feedback and updates on activities and initiatives
-
-### Peer Tutor of Math, Science, and English <time> Sep 2016 – Jun 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Taught active reading and note-taking strategies to English as a second language (ESL) students
-- Reviewed course notes, clarified complex concepts, and provided feedback for course assignments
-- Received 2 Peer Tutor Awards in recognition of outstanding contribution to the peer tutoring program
-
-### Student Council Historian and Secretary <time> Oct 2017 – Jun 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Prepared, coordinated, and executed activities, including Halloween activities, Thanksgiving Bonfire Nights, Christmas celebrations, Spirit Weeks, and Academic Integrity Seminar
-- Drafted, edited, and updated activity proposals and meeting minutes for iterative improvement of execution
-- Raised 1000+ CNY funds and 200+ books for children in need with fundraising events
-
-### Lab Peer Supervisor <time> Mar 2017 – Mar 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Supervised biology, chemistry, and physics lab practices of 9th-grade students for Zhongzhao Examination
-- Taught lab safety guidelines, standard lab procedures, and best practices, as well as ensured lab safety
+- Organized, advertised, and hosted 10+ recruiting events for 600+ undergraduate students in STEM
