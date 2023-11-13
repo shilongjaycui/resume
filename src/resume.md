@@ -8,7 +8,7 @@
     </a>
     |
     <a href="https://www.linkedin.com/in/shilongjaycui/">
-        linkedin.com/in/shilongjaycui/
+        linkedin.com/in/shilongjaycui
     </a>
     |
     <a href="https://github.com/shilongjaycui">
