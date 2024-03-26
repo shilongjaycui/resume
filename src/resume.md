@@ -30,30 +30,31 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-### Data Engineer I <time> Sep 2023 – present </time>
+### ML Platform Engineer <time> Sep 2023 – present </time>
 
 <location> BENlabs </location>
 
-- Enabled the data scientists to publish models by fixing their failed deployments in CI/CD (GitHub Actions, AWS CDK)
-- Eliminated tech debts related to repository hosting by migrating internal tools from Bitbucket to GitHub, reconfiguring the tools with projen, and publishing the tools to AWS CodeArtifact
-- Increased data product quality by coaching the data scientists on software engineering best practices and enforcing those practices during pair programming & code review
+- Enabled data scientists to build, test, and deploy machine learning models by building, troubleshooting, and templatizing CI/CD pipelines (GitHub Actions, AWS CDK)
+- Migrated existing machine learning workflows from AWS Step Functions to Metaflow (Python)
+- Increased data product quality by coaching the data scientists on software engineering best practices
+- Set up model evaluation baseline for predicting YouTube video views by conducting exploratory data analysis (Databricks, SQL, pandas, matplotlib, seaborn, scikit-learn)
+- Enabled data scientists to access up-to-date embeddings at all times by creating a data pipeline running on a schedule (Dagster, Pinecone)
 
 ### Data Engineer Intern <time> Sep 2022 – Apr 2023 </time>
 
 <location> BEN Group, Inc. </location>
 
-- Enabled the data science team and the analytics team to monitor AI batch jobs by building and deploying a monitoring system (Python, AWS SDK, AWS Step Functions)
 - Enabled the data engineering team to control OpenSearch data access by building a CLI tool (AWS CDK, AWS OpenSearch Service, AWS Secrets Manager, pytest)
 - Provided company-wide access to Twitch data by building three data pipelines (Twitch API, Gathr, AWS S3)
 
-### Software Engineer Intern <time> May 2022 – Aug 2022 </time>
+### Frontend Software Engineer Intern <time> May 2022 – Aug 2022 </time>
 
 <location> Neighbor Storage, Inc. </location>
 
 - Enabled users to create and update rental listings and  payment information by building UI components (HTML, Tailwind CSS, React with TypeScript) and API endpoints (Ruby on Rails, Go)
 - Launched UI-Kit Version 2 by building 10 reusable, fully-tested React components (React Testing Library)
 
-### Software Engineer Intern <time> May 2021 – Jul 2021 </time>
+### Backend Software Engineer Intern <time> May 2021 – Jul 2021 </time>
 
 <location> Pluralsight, Inc. </location>
 
@@ -62,11 +63,11 @@
 
 ## VOLUNTEER EXPERIENCE
 
-### Preschool Teacher <time> Nov 2022 – May 2023 </time>
+### Volunteer <time> Mar 2024 – present </time>
 
-<location> Early Learning Essentials </location>
+<location> Huntsman Cancer Institute </location>
 
-- Taught 15 three-year-olds how to brush their teeth
+- Working on art projects with cancer patients and caregivers every Saturday morning
 
 ### Vice President <time> Sep 2021 - Nov 2022 </time>
 
