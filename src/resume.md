@@ -30,22 +30,16 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-### ML Platform Engineer <time> Sep 2023 – present </time>
+### ML Platform Engineer <time> Sep 2022 – May 2024 </time>
 
 <location> BENlabs </location>
 
-- Enabled data scientists to build, test, and deploy machine learning models by building, troubleshooting, and templatizing CI/CD pipelines (GitHub Actions, AWS CDK)
-- Migrated existing machine learning workflows from AWS Step Functions to Metaflow (Python)
+- Enabled data scientists to build, test, and deploy machine learning models with four button clicks by building, troubleshooting, and templatizing machine learning workflows and their CI/CD pipelines (Python, AWS, GitHub Actions, Metaflow, BentoML)
+- Set up model evaluation baseline for predicting YouTube video views by conducting exploratory data analysis (Python, Databricks, SQL, pandas, matplotlib, seaborn, scikit-learn)
+- Enabled data scientists to access up-to-date embeddings at all times by creating a data pipeline running on a schedule (Python, Dagster, Pinecone)
 - Increased data product quality by coaching the data scientists on software engineering best practices
-- Set up model evaluation baseline for predicting YouTube video views by conducting exploratory data analysis (Databricks, SQL, pandas, matplotlib, seaborn, scikit-learn)
-- Enabled data scientists to access up-to-date embeddings at all times by creating a data pipeline running on a schedule (Dagster, Pinecone)
-
-### Data Engineer Intern <time> Sep 2022 – Apr 2023 </time>
-
-<location> BEN Group, Inc. </location>
-
-- Enabled the data engineering team to control OpenSearch data access by building a CLI tool (AWS CDK, AWS OpenSearch Service, AWS Secrets Manager, pytest)
-- Provided company-wide access to Twitch data by building three data pipelines (Twitch API, Gathr, AWS S3)
+- Enabled the data engineering team to control OpenSearch data access by building a CLI tool (Python, AWS SDK, AWS CDK)
+- Provided company-wide access to Twitch data by building three data pipelines (Python, AWS, Twitch API, Gathr)
 
 ### Frontend Software Engineer Intern <time> May 2022 – Aug 2022 </time>
 
@@ -67,7 +61,7 @@
 
 <location> Huntsman Cancer Institute </location>
 
-- Working on art projects with cancer patients and caregivers every Saturday morning
+- Working on art projects with cancer patients and caregivers every Sunday morning
 
 ### Vice President <time> Sep 2021 - Nov 2022 </time>
 
