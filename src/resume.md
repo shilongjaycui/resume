@@ -16,17 +16,6 @@
     </a>
 </p>
 
-## EDUCATION
-
-### Brigham Young University | <location> Provo, UT, USA </location> <time> Sep 2019 – Jun 2023 </time>
-
-- B.S. in Mathematics, emphasis in Applied & Computational Mathematics
-- Minor in Computer Science
-
-### Waterford School | <location> Sandy, UT, USA </location> <time> Sep 2016 – Jun 2019 </time>
-
-- GPA: 4.00 | SAT: 1530/1600, 99th percentile
-- Skipped senior year to go to college
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -55,13 +44,24 @@
 - Accelerated user data load time by 67% (6s to 2s) by redesigning the table concatenation procedure (SQL)
 - Provided new content access to 17,000+ enterprise customers in 180+ countries by integrating 50GB of data into Pluralsight’s insights & analytics platform (SQL, C#)
 
+## EDUCATION EXPERIENCE
+
+### Combat Arts Strength & Conditioning | <location> Salt Lake City, UT, USA </location> <time> Apr 2024 – present </time>
+
+- Brazilian jiu-jitsu
+
+### Brigham Young University | <location> Provo, UT, USA </location> <time> Sep 2019 – Jun 2023 </time>
+
+- B.S. in Mathematics, emphasis in Applied & Computational Mathematics
+- Minor in Computer Science
+
 ## VOLUNTEER EXPERIENCE
 
 ### Volunteer <time> Mar 2024 – present </time>
 
 <location> Huntsman Cancer Institute </location>
 
-- Working on art projects with cancer patients and caregivers every Sunday morning
+- Working on art projects with 50+ cancer patients and their families
 
 ### Vice President <time> Sep 2021 - Nov 2022 </time>
 
