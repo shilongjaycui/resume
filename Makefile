@@ -1,2 +1,2 @@
 install:
-	code --install-extension yzane.markdown-pdf
+	code --install-extension yzane.markdown-pdf --force
