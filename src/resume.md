@@ -55,13 +55,10 @@ SQL | Exploratory Data Analysis (EDA) | Pandas | Matplotlib | Seaborn | scikit-l
 
 ## EDUCATION EXPERIENCE
 
-### Combat Arts Strength & Conditioning <time> Apr 2024 – present </time>
-
-- Brazilian jiu-jitsu
-
 ### Brigham Young University <time> Sep 2019 – Jun 2023 </time>
 
 - B.S. in Applied Mathematics, minor in Computer Science
+- Heritage Scholarship: merit-based full-tuition scholarship
 
 ## VOLUNTEER EXPERIENCE
 
