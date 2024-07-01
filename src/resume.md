@@ -22,14 +22,13 @@
 ### MLOps Engineer <time> Sep 2022 – May 2024 </time>
 
 <location> BENlabs </location>
-
-- Reduced ML workflow setup time by **50%** by turning the workflow into a template and making the template auto-generated ([Metaflow](https://metaflow.org/), [BentoML](https://www.bentoml.com/), [projen](https://projen.io/))
-- Reduced ML service deployment time by **80%** by automating linting, testing, and infrastructure provisioning in CI/CD pipelines ([GitHub Actions](https://docs.github.com/en/actions), [pylint](https://www.pylint.org/), [pytest](https://docs.pytest.org/en/8.2.x/), [AWS Cloud Development Kit](https://aws.amazon.com/cdk/))
+- Reduced data science infrastructure manual work by **95%** by creating, managing, and provisioning AWS resources using infrastructure as code (Python, [AWS Cloud Development Kit](https://aws.amazon.com/cdk/), S3, Secrets Manager, EC2, ECS, Fargate)
+- Reduced ML service deployment time by **80%** by automating linting, testing, and infrastructure provisioning in CI/CD pipelines ([GitHub Actions](https://docs.github.com/en/actions), [pylint](https://www.pylint.org/), [pytest](https://docs.pytest.org/en/8.2.x/), AWS Cloud Development Kit)
+- Streamlined DevOps support for all data teams by creating unit & integration tests for **10+** internal tools (Python, pytest, [AWS Software Development Kit](https://aws.amazon.com/sdk-for-python/))
+- Enabled data scientists to train ML models on GPUs by writing a bash script that configures remote cloud workstations (shell scripting, SSH, Linux, git, Docker)
+- Provided company-wide access to up-to-date vector embeddings by designing and developing integration solutions with 3rd party data providers and systems (Python, SQL, Databricks, [Dagster](https://dagster.io/), Hugging Face, [Pinecone](https://www.pinecone.io/))
 - Reduced ML application debugging time by **20%** by coaching the data scientists on software engineering principles and best practices
-- Reduced tech debt for all data teams by **50%** by migrating legacy services from Bitbucket to GitHub and reconfiguring them with projen
-- Provided company-wide access to up-to-date vector embeddings at all times by building two self-updating data pipelines (Python, Databricks, [Dagster](https://dagster.io/), Hugging Face, [Pinecone](https://www.pinecone.io/))
-- Enabled data scientists to train ML models on GPUs by writing a bash script that configures remote cloud workstations and installs dependencies in them (shell scripting, SSH, Linux, git, Docker)
-- Unblocked data scientists from CI/CD and deployment failures by troubleshooting their ML applications
+- Enforced security best practices for **10+** projects by automating configuration management
 
 ### Frontend Software Engineer Intern <time> May 2022 – Aug 2022 </time>
 
