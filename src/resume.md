@@ -19,7 +19,7 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-### ML Platform Engineer <time> Sep 2022 – May 2024 </time>
+### MLOps Engineer <time> Sep 2022 – May 2024 </time>
 
 <location> BENlabs </location>
 
@@ -63,17 +63,3 @@ Data Querying with SQL, Databricks | Data Pipeline Orchestration with Dagster | 
 - B.S. in Mathematics, Applied & Computational Mathematics Emphasis ([ACME](https://acme.byu.edu/))
 - Minor in Computer Science
 - Heritage Scholarship: merit-based half-tuition scholarship
-
-## VOLUNTEER EXPERIENCE
-
-### Volunteer <time> Mar 2024 – present </time>
-
-<location> Huntsman Cancer Institute </location>
-
-- Working on art projects with **50+** cancer patients and their families
-
-### Vice President <time> Sep 2021 - Nov 2022 </time>
-
-<location> Society for Industrial and Applied Mathematics (SIAM), BYU Chapter </location>
-
-- Organized, advertised, and hosted **10+** recruiting events for **600+** undergraduate students in STEM
