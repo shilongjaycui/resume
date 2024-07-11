@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="jay-cui-resume.css">
+<link rel="stylesheet" type="text/css" href="jay_cui_resume.css">
 
 <span class="name">JAY CUI</span>
 
