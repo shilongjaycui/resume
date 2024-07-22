@@ -19,7 +19,7 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-### MLOps Engineer <time> Sep 2022 – May 2024 </time>
+### MLOps Engineer <time> Sep 2022 – Jul 2024 </time>
 
 <location> BENlabs </location>
 
