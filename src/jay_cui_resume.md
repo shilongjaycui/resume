@@ -20,18 +20,18 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-### MLOps Engineer <time> Sep 2022 – Jul 2024 </time>
+### DevOps Engineer <time> Sep 2022 – Jul 2024 </time>
 
 <div class="location">
     <span class="company-name">BENlabs</span>
     <span class="company-address">Los Angeles, CA, USA</span>
 </div>
 
-- Decreased ML workflow setup time by 80% by turning the workflow into a template and making the template auto-generated ([Metaflow](https://metaflow.org/), [BentoML](https://www.bentoml.com/), [projen](https://projen.io/))
-- Decreased ML service deployment time by 50% by automating linting, testing, and infrastructure provisioning in CI/CD pipelines ([GitHub Actions](https://docs.github.com/en/actions), [pylint](https://www.pylint.org/), [pytest](https://docs.pytest.org/en/8.2.x/), [AWS Cloud Development Kit](https://aws.amazon.com/cdk/))
+- Deployed 5+ production ML services by containerizing their frontend and backend (Docker, [Amazon Elastic Container Service](https://aws.amazon.com/ecs/), [AWS Fargate](https://aws.amazon.com/fargate/), [AWS CloudFormation](https://aws.amazon.com/cloudformation/), [AWS Cloud Development Kit](https://aws.amazon.com/cdk/))
+- Decreased ML service deployment time by 50% by automating linting, testing, and infrastructure provisioning in CI/CD pipelines ([GitHub Actions](https://docs.github.com/en/actions), [pylint](https://www.pylint.org/), [pytest](https://docs.pytest.org/en/8.2.x/))
 - Provided company-wide access to up-to-date vector embeddings by building two self-updating data pipelines (Python, Databricks, [Dagster](https://dagster.io/), Hugging Face, [Pinecone](https://www.pinecone.io/))
-- Enabled data scientists to train ML models on GPUs by writing a bash script that automates remote cloud workstation setup and configuration (shell scripting, SSH, Linux, git, Docker)
-- Reduced tech debt and resolved package incompatibility by migrating legacy services from Bitbucket to GitHub (GitHub, Bitbucket, projen)
+- Enabled data scientists to train ML models on GPUs by writing a bash script that automates remote cloud workstation setup and configuration (shell scripting, SSH, Linux, git)
+- Reduced tech debt and resolved package incompatibility by migrating legacy services from Bitbucket to GitHub (GitHub, Bitbucket, [projen](https://projen.io/))
 - Increased ML application code quality and decreased debugging time by coaching the data scientists on software engineering best practices
 
 ### Frontend Software Engineer Intern <time> May 2022 – Aug 2022 </time>
@@ -56,8 +56,8 @@
 
 ## RELEVANT SKILLS
 
-### DevOps & MLOps
-Shell Scripting | CI/CD with GitHub Actions | Cloud Computing with AWS | Infrastructure as code (IaC) with AWS Cloud Development Kit (CDK) | Containerization with Docker | Model Training with Metaflow | Model Serving with BentoML
+### DevOps
+Shell Scripting | CI/CD with GitHub Actions | Cloud Computing with AWS | Infrastructure as code (IaC) with AWS CloudFormation and AWS Cloud Development Kit (CDK) | Containerization with Docker, ECS, and Fargate
 
 ### Software Development
 Backend Development with Python, Java, C#, C++ | Frontend Development with TypeScript, React.js, TailwindCSS, HTML | Automated Software Testing with pytest, React Testing Library
