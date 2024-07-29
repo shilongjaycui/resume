@@ -29,10 +29,10 @@
 
 - Decreased ML workflow setup time by 80% by turning the workflow into a template and making the template auto-generated ([Metaflow](https://metaflow.org/), [BentoML](https://www.bentoml.com/), [projen](https://projen.io/))
 - Decreased ML service deployment time by 50% by automating linting, testing, and infrastructure provisioning in CI/CD pipelines ([GitHub Actions](https://docs.github.com/en/actions), [pylint](https://www.pylint.org/), [pytest](https://docs.pytest.org/en/8.2.x/), [AWS Cloud Development Kit](https://aws.amazon.com/cdk/))
-- Provided company-wide access to up-to-date vector embeddings by building two self-updating data pipelines (Python, Databricks, [Dagster](https://dagster.io/), Hugging Face, [Pinecone](https://www.pinecone.io/))
+- Provided company-wide access to self-updating vector embeddings by building 2 data pipelines (Python, Databricks, [Dagster](https://dagster.io/), Hugging Face, [Pinecone](https://www.pinecone.io/))
 - Enabled data scientists to train ML models on GPUs by writing a bash script that automates remote cloud workstation setup and configuration (shell scripting, SSH, Linux, git, Docker)
-- Reduced tech debt and resolved package incompatibility by migrating legacy services from Bitbucket to GitHub (GitHub, Bitbucket, projen)
-- Increased ML application code quality and decreased debugging time by coaching the data scientists on software engineering best practices
+- Reduced tech debt and resolved package incompatibility by migrating 8 production legacy services from Bitbucket to GitHub
+- Increased ML application code quality and decreased debugging time by coaching 3 data scientists on software engineering best practices
 
 ### Frontend Software Engineer Intern <time> May 2022 – Aug 2022 </time>
 
@@ -41,8 +41,8 @@
     <span class="company-address">Lehi, UT, USA</span>
 </div>
 
-- Enabled users to create and update rental listings and payment information by building **10+** UI components and **2+** API endpoints (HTML, [Tailwind CSS](https://tailwindcss.com/), React with TypeScript, Go)
-- Launched UI-Kit Version 2 by building **10+** reusable, fully-tested React components ([React Testing Library](https://testing-library.com/docs/react-testing-library/intro/))
+- Enabled users to create and update rental listings and payment information by building 10+ UI components and 3 API endpoints (HTML, [Tailwind CSS](https://tailwindcss.com/), React with TypeScript, Go)
+- Launched UI-Kit Version 2 by building 10+ reusable, fully-tested React components ([React Testing Library](https://testing-library.com/docs/react-testing-library/intro/))
 
 ### Backend Software Engineer Intern <time> May 2021 – Jul 2021 </time>
 
@@ -51,8 +51,8 @@
     <span class="company-address">Draper, UT, USA</span>
 </div>
 
-- Accelerated user data load time by **67%** by redesigning the table concatenation procedure (SQL)
-- Provided new content access to **17,000+** enterprise customers in **180+** countries by integrating 50GB of data into Pluralsight’s insights & analytics platform (SQL, C#, integration testing)
+- Accelerated user data load time by 67% by redesigning the table concatenation procedure (SQL)
+- Provided new content access to 17,000+ enterprise customers in 180+ countries by integrating 50GB of data into Pluralsight’s insights & analytics platform (SQL, C#, integration testing)
 
 ## RELEVANT SKILLS
 
