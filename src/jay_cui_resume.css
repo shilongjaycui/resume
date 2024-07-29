@@ -91,9 +91,20 @@ time {
     font-weight: bold;
 }
 
-location {
-    font-weight: normal;
+.location {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.company-name {
     font-style: italic;
+    font-weight: normal;
+}
+
+.company-address {
+    font-style: normal;
+    font-weight: normal;
 }
 
 .info {
