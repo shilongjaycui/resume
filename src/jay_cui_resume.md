@@ -13,8 +13,6 @@
     |
     <a href="https://github.com/shilongjaycui">
         github.com/shilongjaycui
-    </a>
-    | +1 (857) 207-7125
 </p>
 
 
@@ -28,7 +26,7 @@
 </div>
 
 - Enabled the AI R&D team to build clustering algorithms and knowledge graphs by fetching, processing, and storing 900 GB of open data (Python, shell scripting, Google Cloud Platform)
-- Decreased textual data query time complexity from polynomial to sublinear by deploying and populating an Elasticsearch server (Python, Docker, Elasticsearch & Kibana, Google Cloud Platform, Cloudflare)
+- Decreased textual data query time complexity by 99% (from cubic to sublinear) by deploying and populating a search engine (Python, Docker, Elasticsearch & Kibana, Google Cloud Platform, NGINX, Cloudflare)
 
 ### MLOps Engineer <time> Sep 2022 – Jul 2024 </time>
 
