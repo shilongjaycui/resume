@@ -22,7 +22,7 @@
 
 <div class="location">
     <span class="company-name">Revmatics, Inc.</span>
-    <span class="company-address">Remote</span>
+    <span class="company-address">Lehi, UT, USA</span>
 </div>
 
 - Enabled the AI R&D team to build clustering algorithms and knowledge graphs by fetching, processing, and storing 900 GB of open data (Python, shell scripting, Google Cloud Platform)
