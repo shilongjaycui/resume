@@ -25,12 +25,13 @@
     <span class="company-address">Lehi, UT, USA</span>
 </div>
 
-- Enabled scientists to do experiments in GPU-enabled cloud workstations by automating environment setup and configuration with shell scripts (bash, SSH)
-- Enabled engineers and scientists to develop algorithms by fetching, processing, and storing 1,000+GB of open data (Python, bash, Google Cloud)
+- Enabled scientists to do experiments in GPU-enabled cloud workstations by automating environment setup and configuration with shell scripts (SSH, bash, Linux)
+- Enabled engineers and scientists to develop algorithms by fetching, processing, and storing 1,000+GB of open data (Python, Google Cloud)
 - Decreased textual data query time by 99% (from cubic time to sublinear time) by deploying and populating a search engine (Docker, Elasticsearch & Kibana, Google Cloud, NGINX, Cloudflare)
-- Saved the company $200,000/year by building and deploying an observability platform using only open-source tools (Docker, Graylog, Prometheus & Grafana, Fluent Bit, Google Cloud, NGINX, Cloudflare)
-- Enabled engineers and scientists to work with the tools & technologies they need by writing 20+ onboarding documents and how-to guidelines (Notion, monday.com, GitHub Wiki)
-- Decreased cyberattack space by deploying endpoint security solutions on 40+ company laptops, desktops, and virtual machines (AnyDesk, Windows, macOS, Linux, SentinelOne)
+- Saved the company $100,000/year by building and deploying an observability platform using only open-source tools (Docker, Graylog, Prometheus & Grafana, Fluent Bit, Google Cloud, NGINX, Cloudflare, Uptime Kuma)
+- Enabled engineers and scientists to work with the tools & technologies they need by writing 10+ onboarding documents and how-to guidelines (GitHub Wiki, Confluence)
+- Decreased cyberattack space by deploying endpoint security solutions on 50+ company laptops, desktops, and virtual machines (AnyDesk, Windows, macOS, Linux, SentinelOne, Qualys)
+- Enabled employees from all departments to resume daily operations by resolving 100+ IT support tickets (Google Workspace, Jira Service Management, Bitwarden, Proofpoint, Google Cloud)
 
 ### Platform Engineer <time> Sep 2022 – Jul 2024 </time>
 
