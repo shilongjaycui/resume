@@ -39,10 +39,12 @@
     <span class="company-address">Remote</span>
 </div>
 
-- Decreased ML workflow setup time by 80% by turning the workflow into an auto-generatable template (Metaflow, BentoML, projen)
-- Decreased ML service deployment time by 50% by automating linting, testing, and infrastructure provisioning (GitHub Actions, pylint, pytest, AWS Cloud Development Kit)
-- Provided company-wide access to self-updating vector embeddings by building data pipelines (Python, Databricks, Dagster, Hugging Face, Pinecone)
-- Enabled data scientists to train ML models on GPUs by automating cloud workstation setup (bash, SSH, Linux, Docker)
+- Reduced ML service deployment time by 50% by automating linting, testing, and infrastructure provisioning
+- Reduced ML workflow setup time by 50% by turning the workflow into an auto-generatable template
+- Provided company-wide access to self-updating vector embeddings by building data pipelines
+- Enabled data scientists to train ML models on GPUs by automating cloud workstation setup
+- Enabled data scientists to build a YouTube video view count prediction model by conducting exploratory data analysis (EDA) and building a baseline model
+- Reduced ML application debugging time by coaching the data scientists on software engineering best practices
 
 ### Software Engineer Intern <time> May 2022 – Aug 2022 </time>
 
@@ -51,8 +53,8 @@
     <span class="company-address">Lehi, UT, USA</span>
 </div>
 
-- Enabled users to create and update rental listings and payment information by building 10+ UI components and API endpoints (HTML, Tailwind CSS, React with TypeScript, Go)
-- Launched UI-Kit Version 2 by building 10+ reusable, fully-tested React components (React Testing Library)
+- Enabled users to create and update rental listings and payment information by building 10+ UI components and API endpoints
+- Launched UI-Kit Version 2 by building 10+ reusable, fully-tested React components
 
 ### Software Engineer Intern <time> May 2021 – Jul 2021 </time>
 
@@ -61,8 +63,8 @@
     <span class="company-address">Draper, UT, USA</span>
 </div>
 
-- Accelerated user data load time by 67% by redesigning the table concatenation procedure (SQL)
-- Provided new content access to 17,000+ enterprise customers in 180+ countries by integrating 50GB of data into Pluralsight’s insights & analytics platform (SQL, C#, integration testing)
+- Accelerated user data load time by 67% by redesigning the table concatenation procedure
+- Provided new content access to 17,000+ enterprise customers in 180+ countries by integrating 50GB of data into Pluralsight’s insights & analytics platform
 
 ## EDUCATION EXPERIENCE
 
