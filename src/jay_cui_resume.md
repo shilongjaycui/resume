@@ -25,12 +25,12 @@
     <span class="company-address">Lehi, UT, USA</span>
 </div>
 
-- Enabled engineers and scientists to develop algorithms by deploying a search engine and populating it with 1,000+GB of data
-- Gained visibility into the company’s IT infrastructure health by building an observability platform using only open-source tools, saving the company $100,000/year
-- Educated the tech team (including my future self) on IT infrastructure tutorials and best practices by writing 20+ pages of technical documentation
-- Centralized cloud network management by provisioning a shared VPC and migrating VMs across different Google Cloud projects to that shared VPC
-- Enabled real-time incident detection by provisioning Cloud Monitoring alerts for critical IT resources
-- Resolved 200+ IT support tickets for the entire company
+- Saved the company $100,000USD/year by building and maintaining an infrastructure monitoring platform using only open-source tools
+- Saved the infrastructure team 20h/week by interviewing, hiring, training, and guiding an IT Support Specialist
+- Set up data protection, high availability, and fault tolerance for critical services by turning them into clusters
+- Decreased network infrastructure overhead by provisioning a shared VPC used by all Google Cloud projects
+- Enabled internal services to securely communicate with one another by creating custom IAM roles
+- Resolved 300+ IT support tickets
 
 ### Platform Engineer <time> Sep 2022 – Jul 2024 </time>
 
