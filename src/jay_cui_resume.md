@@ -22,21 +22,23 @@
 
 <div class="location">
     <span class="company-name">Revmatics, Inc.</span>
-    <span class="company-address">Lehi, UT, USA</span>
+    <span class="company-address">Remote, USA</span>
 </div>
 
 - Saved the company $100,000USD/year by building and maintaining an infrastructure monitoring platform using only open-source tools
-- Saved the infrastructure team 20h/week by interviewing, hiring, training, and guiding an IT Support Specialist
-- Set up data protection, high availability, and fault tolerance for critical services by turning them into clusters
-- Decreased network infrastructure overhead by provisioning a shared VPC used by all Google Cloud projects
-- Enabled internal services to securely communicate with one another by creating custom IAM roles
-- Resolved 300+ IT support tickets
+- Decreased internal service downtime by 99.93% (from five days to five minutes) by automating production environment cloning, infrastructure provisioning, and service deployment
+- Set up data protection, high availability, and fault tolerance for internal services by turning their standalone database instances into database clusters
+- Increased internal service portability and reproducibility by containerizing service deployment configurations
+- Enabled real-time incident detection and response for VMs by provisioning infrastructure alerts
+- Decreased cyberattack space by protecting internal services with NGINX and Docker networks
+- Decreased network infrastructure overhead by provisioning a Shared VPC network
+- Resolved 400+ IT support tickets
 
 ### Platform Engineer <time> Sep 2022 – Jul 2024 </time>
 
 <div class="location">
     <span class="company-name">BENlabs</span>
-    <span class="company-address">Remote</span>
+    <span class="company-address">Remote, USA</span>
 </div>
 
 - Reduced ML service deployment time by 50% by automating linting, testing, and infrastructure provisioning
